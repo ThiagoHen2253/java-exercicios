@@ -1,0 +1,2 @@
+batman;acap;200;14
+homen de ferro;acao;100;12
